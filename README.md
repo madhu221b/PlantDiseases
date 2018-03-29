@@ -11,3 +11,6 @@ The segmentation first consists of masking the background pixels and then the gr
 Before Segmenting ![](Images/3bf50ea4-980e-471b-bbd1-fc0c526dbb7a___JR_FrgE.S%202905.JPG)
 After Segmenting  ![](Images/3bf50ea4-980e-471b-bbd1-fc0c526dbb7a___JR_FrgE.S%202905_.JPG)
 
+Sample test result:
+![](Images/Screenshot%20from%202018-03-25%2000-57-00-1-1.png)
+
