@@ -9,4 +9,5 @@ Classfication was done in this case among only 4 classes instead of 38.
 The segmentation first consists of masking the background pixels and then the green pixel values.
 
 Before Segmenting ![](Images/3bf50ea4-980e-471b-bbd1-fc0c526dbb7a___JR_FrgE.S%202905.JPG)
+After Segmenting  ![](Images/ 	3bf50ea4-980e-471b-bbd1-fc0c526dbb7a___JR_FrgE.S%202905_.JPG)
 
